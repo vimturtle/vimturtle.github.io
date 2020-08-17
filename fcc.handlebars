@@ -1,0 +1,19 @@
+<ul class='topics'>
+    {{#each certifications}}
+    {{#if completed}}
+    <li>
+        <h3>
+            {{id}} {{topic}} &bull;<a href="{{certification}}">Certification</a>
+        </h3>
+        <ul class="projects">
+            {{#each projects}}
+            <li>
+                <a href="{{homepage}}">FCC{{project_id}} - {{project_title}}</a>
+                &bull;<a href="{{source}}">Source</a>
+            </li>
+            {{/each}}
+        </ul>
+    </li>
+    {{/if}}
+    {{/each}}
+</ul>

@@ -1,0 +1,112 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  background-image: linear-gradient(45deg, gray, white);
+  font-family: monospace;
+  padding-bottom: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  border-bottom: 1px solid;
+}
+
+::selection {
+  background: rgba(202, 87, 202, 0.4);
+}
+
+h1 {
+  padding-top: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+header p {
+  text-align: center;
+  font-size: 1rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+figure {
+  padding: 20px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  position: relative;
+  margin: auto;
+}
+
+#img-caption {
+  margin-top: 10px;
+  font-size: 1.3rem;
+}
+
+#img-div {
+  text-align: center;
+}
+
+time {
+  font-weight: bold;
+  text-decoration: underline dotted;
+}
+
+#tribute-info {
+  margin-top: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: justify;
+}
+
+#tribute-info p {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1rem;
+  margin-left: -13px;
+}
+
+li {
+  font-size: 15px;
+  line-height: 1.9rem;
+}
+
+#quote {
+  text-align: center;
+  margin: 20px 50px;
+  padding: 10px;
+  font-size: 15px;
+  font-style: italic;
+  background-color: rgb(217, 204, 230);
+}
+
+#quote p {
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+#more-info {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+#credit {
+  text-align: center;
+  font-size: 0.7rem;
+  margin-bottom: 10px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+#credit a {
+  text-decoration: none;
+}

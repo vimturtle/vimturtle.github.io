@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&display=swap");
+body {
+  background-color: #dad0d0;
+  font-family: 'Alata', sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+}
+
+header {
+  padding: 2rem 0 0 2rem;
+}
+
+main {
+  padding: 0 0 1rem 2rem;
+}
+
+::-moz-selection {
+  background-color: #bbb3b3;
+}
+
+::selection {
+  background-color: #bbb3b3;
+}
+
+.username {
+  font-size: 2.5rem;
+  color: #8721a0;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.description {
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid #808080;
+  line-height: 1.3rem;
+  color: #3f3d41;
+  padding: 1px 4px;
+}
+
+a:hover {
+  background-color: #cec4c4;
+}
+
+a:not([href*='vimturtle.github.io']):not([href^='/']):not([href^='#']):not([href*='github.com'])::after {
+  content: url(/img/external-link.svg);
+}
+
+a::after {
+  font-size: 0.7rem;
+  padding: 0.1rem;
+  position: relative;
+  bottom: 0.1rem;
+}
+
+a[href*='github.com']::after {
+  content: url(/img/github.svg);
+}
+
+h3 > a {
+  font-size: 1.1rem;
+  color: unset;
+}
+
+ul {
+  margin-bottom: 1.3rem;
+}
+
+ul h3 {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+ul ul {
+  margin-left: 1rem;
+}
+
+li {
+  margin-bottom: 5px;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@vimturtle &bull; freeCodeCamp</title>
+    <link rel="stylesheet" href="minireset.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <header>
+      <span class="username">@vimturtle</span>
+      <a href="https://freecodecamp.org/vimturtle/">freeCodeCamp</a> &bull;
+      <a href="https://github.org/vimturtle/">GitHub</a>
+    </header>
+    <main>
+      <p class="description">
+        These projects were completed as part of
+        <a href="https://freecodecamp.org/">freeCodeCamp</a> curriculum.
+      </p>
+      <div id="projects"></div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.runtime.js"></script>
+    <script src="fcc.precompiled.js"></script>
+    <script>
+      async function init() {
+        const res = await fetch('fcc-data.json');
+        const json = await res.json();
+
+        // Handlebars
+        const template = Handlebars.templates.fcc;
+        document.getElementById('projects').innerHTML = template(json);
+      }
+
+      init();
+    </script>
+  </body>
+</html>
