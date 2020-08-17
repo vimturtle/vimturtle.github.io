@@ -9,31 +9,31 @@
         {
           "project_id": "1.1",
           "project_title": "Tribute to Dennis Ritchie",
-          "homepage": "/fcc-projects/responsive-web-design/tribute-to-dennis-ritchie/",
+          "homepage": "/fcc/responsive-web-design/tribute-to-dennis-ritchie/",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "1.2",
           "project_title": "Coursera Survey Form",
-          "homepage": "/fcc-projects/responsive-web-design/coursera-survey-form/",
+          "homepage": "/fcc/responsive-web-design/coursera-survey-form/",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "1.3",
           "project_title": "QuasarMail Landing Page",
-          "homepage": "/fcc-projects/responsive-web-design/quasarmail-landing-page/",
+          "homepage": "/fcc/responsive-web-design/quasarmail-landing-page/",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "1.4",
           "project_title": "BeautifulSoup Reformatted Documentation",
-          "homepage": "/fcc-projects/responsive-web-design/beautifulsoup-reformatted-documentation/",
+          "homepage": "/fcc/responsive-web-design/beautifulsoup-reformatted-documentation/",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "1.5",
           "project_title": "@vimturtle Portfolio",
-          "homepage": "/fcc-projects/responsive-web-design/vimturtle-portfolio",
+          "homepage": "/fcc/responsive-web-design/vimturtle-portfolio",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         }
       ]
@@ -47,31 +47,31 @@
         {
           "project_id": "2.1",
           "project_title": "Palindrome Checker",
-          "homepage": "/fcc-projects/javascript-algorithms-and-data-structures/palindrome-checker.js",
+          "homepage": "/fcc/javascript-algorithms-and-data-structures/palindrome-checker.js",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "2.2",
           "project_title": "Roman Numeral Converter",
-          "homepage": "/fcc-projects/javascript-algorithms-and-data-structures/roman-numeral-converter.js",
+          "homepage": "/fcc/javascript-algorithms-and-data-structures/roman-numeral-converter.js",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "2.3",
           "project_title": "Caesars Cipher",
-          "homepage": "/fcc-projects/javascript-algorithms-and-data-structures/caesars-cipher.js",
+          "homepage": "/fcc/javascript-algorithms-and-data-structures/caesars-cipher.js",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "2.4",
           "project_title": "Telephone Number Validator",
-          "homepage": "/fcc-projects/javascript-algorithms-and-data-structures/telephone-number-validator.js",
+          "homepage": "/fcc/javascript-algorithms-and-data-structures/telephone-number-validator.js",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "2.5",
           "project_title": "Cash Register",
-          "homepage": "/fcc-projects/javascript-algorithms-and-data-structures/cash-register.js",
+          "homepage": "/fcc/javascript-algorithms-and-data-structures/cash-register.js",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         }
       ]
@@ -123,31 +123,31 @@
         {
           "project_id": "4.1",
           "project_title": "Bar Chart",
-          "homepage": "/fcc-projects/data-visualization/bar-chart",
+          "homepage": "/fcc/data-visualization/bar-chart",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "4.2",
           "project_title": "Scatterplot",
-          "homepage": "/fcc-projects/data-visualization/scatterplot",
+          "homepage": "/fcc/data-visualization/scatterplot",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "4.3",
           "project_title": "Heat Map",
-          "homepage": "/fcc-projects/data-visualization/heat-map",
+          "homepage": "/fcc/data-visualization/heat-map",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "4.4",
           "project_title": "Choropleth Map",
-          "homepage": "/fcc-projects/data-visualization/choropleth-map",
+          "homepage": "/fcc/data-visualization/choropleth-map",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         },
         {
           "project_id": "4.5",
           "project_title": "Treemap",
-          "homepage": "/fcc-projects/data-visualization/treemap",
+          "homepage": "/fcc/data-visualization/treemap",
           "source": "https://github.com/vimturtle/vimturtle.github.io/"
         }
       ]
