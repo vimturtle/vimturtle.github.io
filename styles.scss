@@ -5,6 +5,10 @@ body {
   font-family: 'Alata', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5rem;
+
+  @media screen and (max-width: 600px) {
+    font-size: 0.9rem;
+  }
 }
 
 header {
@@ -12,7 +16,7 @@ header {
 }
 
 main {
-  padding: 0 0 1rem 2rem;
+  padding: 0 1rem 1rem 1rem;
 }
 
 ::selection {
