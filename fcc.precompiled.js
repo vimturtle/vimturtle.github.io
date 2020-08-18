@@ -42,7 +42,7 @@ templates['fcc'] = template({"1":function(container,depth0,helpers,partials,data
     + alias4(((helper = (helper = lookupProperty(helpers,"project_title") || (depth0 != null ? lookupProperty(depth0,"project_title") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"project_title","hash":{},"data":data,"loc":{"start":{"line":11,"column":59},"end":{"line":11,"column":76}}}) : helper)))
     + "</a>\n                &bull;<a href=\""
     + alias4(((helper = (helper = lookupProperty(helpers,"source") || (depth0 != null ? lookupProperty(depth0,"source") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"source","hash":{},"data":data,"loc":{"start":{"line":12,"column":31},"end":{"line":12,"column":41}}}) : helper)))
-    + "\">Source</a>\n            </li>\n";
+    + "\" class=\"source-link\">Source</a>\n            </li>\n";
 },"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
         if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {

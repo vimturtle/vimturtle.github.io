@@ -42,7 +42,7 @@ main {
 
 a {
   text-decoration: none;
-  border-bottom: 1px solid #808080;
+  border-bottom: 1px solid #bdb9b9;
   line-height: 1.3rem;
   color: #3f3d41;
   padding: 1px 4px;
@@ -50,6 +50,7 @@ a {
 
 a:hover {
   background-color: #cec4c4;
+  border-color: #808080;
 }
 
 a:not([href*='vimturtle.github.io']):not([href^='/']):not([href^='#']):not([href*='github.com'])::after {
@@ -65,6 +66,10 @@ a::after {
 
 a[href*='github.com']::after {
   content: url(/img/github.svg);
+}
+
+.source-link {
+  opacity: 0.8;
 }
 
 h3 > a {
