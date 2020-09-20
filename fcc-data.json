@@ -117,7 +117,7 @@
     {
       "id": "4",
       "topic": "Data Visualizations",
-      "completed": false,
+      "completed": true,
       "certification": "https://freecodecamp.org/vimturtle/",
       "projects": [
         {
@@ -155,38 +155,38 @@
     {
       "id": "5",
       "topic": "APIs and Microservices",
-      "completed": false,
+      "completed": true,
       "certification": "https://freecodecamp.org/vimturtle/",
       "projects": [
         {
           "project_id": "5.1",
           "project_title": "Timestamp Microservice",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         },
         {
           "project_id": "5.2",
           "project_title": "Request Header Parser Microservice",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         },
         {
           "project_id": "5.3",
           "project_title": "URL Shortener",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         },
         {
           "project_id": "5.4",
           "project_title": "Exercise Tracker",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         },
         {
           "project_id": "5.5",
           "project_title": "File Metadata Microservice",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         }
       ]
     },
@@ -199,32 +199,108 @@
         {
           "project_id": "6.1",
           "project_title": "Metric-Imperial Converter",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         },
         {
           "project_id": "6.2",
           "project_title": "Issue Tracker",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         },
         {
           "project_id": "6.3",
           "project_title": "Personal Library",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         },
         {
           "project_id": "6.4",
           "project_title": "Sudoku Solver",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         },
         {
           "project_id": "6.5",
           "project_title": "American British Translator",
-          "homepage": "",
-          "source": "https://github.com/vimturtle/"
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "topic": "Scientific Computing with Python",
+      "completed": true,
+      "certification": "https://freecodecamp.org/vimturtle/",
+      "projects": [
+        {
+          "project_id": "7.1",
+          "project_title": "Arithmetic Arranger",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        },
+        {
+          "project_id": "7.2",
+          "project_title": "Time Calculator",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        },
+        {
+          "project_id": "7.3",
+          "project_title": "Budget App",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        },
+        {
+          "project_id": "7.4",
+          "project_title": "Polygon Area Calculator",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        },
+        {
+          "project_id": "7.5",
+          "project_title": "Probability Calculator",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "topic": "Data Analysis with Python",
+      "completed": true,
+      "certification": "https://freecodecamp.org/vimturtle/",
+      "projects": [
+        {
+          "project_id": "8.1",
+          "project_title": "Mean-Variance-Standard Deviation Calculator",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        },
+        {
+          "project_id": "8.2",
+          "project_title": "Demographic Data Analyzer",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        },
+        {
+          "project_id": "8.3",
+          "project_title": "Medical Data Visualizer",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        },
+        {
+          "project_id": "8.4",
+          "project_title": "Page View Time Series Visualizer",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
+        },
+        {
+          "project_id": "8.5",
+          "project_title": "Sea Level Predictor",
+          "homepage": "https://repl.it/@vimturtle/",
+          "source": "https://repl.it/@vimturtle/"
         }
       ]
     }
