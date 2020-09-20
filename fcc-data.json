@@ -193,7 +193,7 @@
     {
       "id": "6",
       "topic": "Quality Assurance",
-      "completed": false,
+      "completed": true,
       "certification": "https://freecodecamp.org/vimturtle/",
       "projects": [
         {
